@@ -1,0 +1,110 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": {
+                "value": "\/Date(1745166533000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Sunday, April 20, 2025 9:58:53 PM"
+            },
+            "Manifests": 1388
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": {
+                "value": "\/Date(1745166559000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Sunday, April 20, 2025 9:59:19 PM"
+            },
+            "Manifests": 2152
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "7zip",
+            "Version": "24.09",
+            "Updated": "\/Date(1745173256473)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "dark",
+            "Version": "3.14.1",
+            "Updated": "\/Date(1745173618111)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "git",
+            "Version": "2.49.0",
+            "Updated": "\/Date(1745173548757)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "neovide",
+            "Version": "0.15.0",
+            "Updated": "\/Date(1745170914769)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "neovim",
+            "Version": "0.11.0",
+            "Updated": "\/Date(1745168207612)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "nmap",
+            "Version": "7.95",
+            "Updated": "\/Date(1745175218603)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "nodejs",
+            "Version": "23.11.0",
+            "Updated": "\/Date(1745173267983)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "python",
+            "Version": "3.13.3",
+            "Updated": "\/Date(1745173759971)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "ripgrep",
+            "Version": "14.1.1",
+            "Updated": "\/Date(1745168255830)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "vcredist2008",
+            "Version": "9.0.30729.5677",
+            "Updated": "\/Date(1745175382246)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "vcredist2022",
+            "Version": "14.42.34438.0",
+            "Updated": "\/Date(1745171800945)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "zig",
+            "Version": "0.14.0",
+            "Updated": "\/Date(1745169593267)\/"
+        }
+    ]
+}
